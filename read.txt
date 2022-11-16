@@ -1,0 +1,14 @@
+!wq
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: wq: command not found
+
